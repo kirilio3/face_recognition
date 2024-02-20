@@ -7,7 +7,7 @@ Make sure you have "cmake" and "opencv" installed. I installed them through comb
 
 I created 1 folder called opencv and inside that folder I have CMakeList.txt as well as my code. I also created a new folder called 'build' inside opencv folder. 'build' is my working directory.
 
-Make sure you download "haarcascade_frontalface_default.xml". You can download that from Git. Place this in the 'build' folder.
+Make sure you download "haarcascade_frontalface_default.xml". Place it in the 'build' folder. https://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml
 
 Once you access the 'build' directory through terminal, type in and wait for execution of "cmake ..", "make" and then "./MyProject". 
 
