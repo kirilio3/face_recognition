@@ -15,4 +15,6 @@ Essentially you need to enter the path which you'd like to access on your comput
 
 Note: You do need to provide the path to at least 9 photos of yourself for program to work. That'd be around line 32 or 33. 
 
+Note_2: Initially I had this code done in python, but C++ proved to be more efficient and fast. 
+
 
